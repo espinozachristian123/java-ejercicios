@@ -8,7 +8,6 @@ class Ejercicio01HolaMundo {
     static void main(String[] args) {
 
         // CREACION DE VARIABLE
-
         String variable = "un String";
 
         // CREACION VARIABLE CONSTANTE "final" Hace que la variable sea constante (no
