@@ -4,7 +4,7 @@ package fundamentos;
  * https://docs.oracle.com/en/java/javase/26/docs/api/index.html
  *
  */
-class Ejercicio01HolaMundo {
+public class Ejercicio01HolaMundo {
     static void main(String[] args) {
 
         // CREACION DE VARIABLE
